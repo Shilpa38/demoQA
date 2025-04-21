@@ -1,0 +1,1 @@
+pytest -v --tb=short --disable-warnings --html=reports\report.html
